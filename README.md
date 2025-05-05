@@ -1,6 +1,6 @@
 ## Hello, I'm Barbara 👋
 Welcome to my GitHub profile!
-I'm a Mediatechnology and -design student with a passion for web development.
+I'm a Interactive Media student with a passion for web development.
 
 ### Current Project 🌱 
 I'm always eager to expand my knowledge and explore new technologies by working on small projects. Right now, I'm working on:
