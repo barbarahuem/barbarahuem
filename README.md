@@ -4,7 +4,7 @@ I'm an Interactive Media student with a passion for web development.
 
 ### Current Project 🌱 
 I'm always eager to expand my knowledge and explore new technologies by working on small projects. Right now, I'm working on:
-- [Carbon Footprint calculator for Websites (Extension)](https://github.com/barbarahuem/website-carbon-footprint-extension)
+- ... Unfortunately, no private projects at the moment
 
 ### Let's Connect 🤝 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/barbara-huemer-3848b0271/)
